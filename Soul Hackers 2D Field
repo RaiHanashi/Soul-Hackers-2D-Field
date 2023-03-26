@@ -1,0 +1,10 @@
+{
+  "name": "2D Field",
+  "description": "map theme from Devil Summoner: Soul Hackers",
+  "author": "RaiHanashi",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
